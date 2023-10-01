@@ -1,0 +1,68 @@
+body {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.3;
+    background-color: gray;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1% 1% 1% 0;
+    color: white;
+    background-color: darkslategray;
+    
+}
+header h1 {
+    font-size: 200%;
+    padding-left: 60px;
+    padding-right: 10px;
+    background-color: black;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+}
+.background {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(../images/fancy-cushion.webp);
+}
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    padding: 20px;
+    border: 5px solid lightblue;
+    margin: 30px;
+}
+aside {
+    width: 15%;
+    border-right: 3px solid blue;
+}
+aside h2 {
+    font-size: 200%;
+    display: flex;
+    align-content: flex-start;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    padding-right: 10px;
+    
+}
+div {
+    justify-content: flex-end;
+    width: 80%;
+    margin-right: 20px;
+}
+div p {
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    margin-left: 20px;
+}
+div ul {
+    display: flex;
+    justify-content: space-around;
+    min-width: 1200px;
+}
