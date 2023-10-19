@@ -164,6 +164,12 @@ div ul li {
 #primary-card:hover .cardtext { /*I wanted the opacity to turn to 100% when hovering over the card, but couldn't figure out how*/
     opacity: 100%;
 }
+#image {
+    margin: auto;
+    margin-top: 30px;
+    display: block;
+    align-items: center;
+}
 .card:hover .cardtext {
     opacity: 100%;
 }
