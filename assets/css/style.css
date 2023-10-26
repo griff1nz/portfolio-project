@@ -26,6 +26,11 @@ nav ul{
     min-width: 300px;
     font-size: 120%;
 }
+nav ul li {
+    padding: 5px 20px 5px 20px;
+    background-color: black;
+    color: white;
+}
 footer {
     padding: 10px;
 }
@@ -193,6 +198,7 @@ div ul li {
     .cardtext p {
         font-size: 70%;
     }
+}
  @media screen and (max-width: 768px) {
     header h1 {
         font-size: 175%;
@@ -218,5 +224,9 @@ div ul li {
     div {
         width: 100%;
     }
+    #contactinfo {
+        font-size: 80%;
+    }
 } 
+
 /*https://www.w3schools.com/css/css3_transitions.asp tutorial for transitions*/
