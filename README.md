@@ -19,3 +19,11 @@ Explanation of transitions in CSS: https://www.w3schools.com/css/css3_transition
 
 ## License
 Please refer to the LICENSE in the repo.
+
+## Source Code Locations
+
+index.html: ./index.html  
+style.css: ./assets/css/style.css
+
+## Deployed Webpage
+https://griff1nz.github.io/portfolio-project/
