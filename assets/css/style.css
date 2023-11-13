@@ -112,6 +112,16 @@ div ul li {
     background-size: cover;
     background-position: top;
 }
+#quiz {
+    background-image: url("../images/quiz.png");
+    background-size: cover;
+    background-position: top;
+}
+#dog-breeds {
+    background-image: url("../images/dog-breeds.png");
+    background-size: cover;
+    background-position: top;
+}
 .card {
     position: relative;
     display: flex;
