@@ -122,6 +122,11 @@ div ul li {
     background-size: cover;
     background-position: top;
 }
+#gods-and-beasts {
+    background-image: url('../images/Godsandbeasts.png');
+    background-size: cover;
+    background-position: top;
+}
 .card {
     position: relative;
     display: flex;
